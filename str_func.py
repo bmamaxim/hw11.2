@@ -1,4 +1,9 @@
 def str_upper(word: str):
+    """
+    Возвращает слово в верхнем регистре
+    :param word: str
+    :return: str
+    """
     return word.upper()
 
 
